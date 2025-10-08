@@ -8,14 +8,14 @@ This sample demonstrates how to export a Word document as a PDF using the Syncfu
 - The export logic uses `PdfDocument`, `PdfBitmap`, and `PdfPageSettings` from the Syncfusion PDF Export package.  
 - The exported PDF does not support text search since content is rendered as images.  
 - Triggered via a button in the Angular template that loops through each page and draws the image on the PDF canvas.  
-- [GitHub Repository](https://github.com/syncfusion/angular-docx-editor-export-pdf)
+- [GitHub Repository](https://github.com/SyncfusionExamples/Export-document-as-PDF-in-Angular/tree/master/Client%20side%20export)
 
 **Server Side** – With the help of [Syncfusion® DocIO](https://www.nuget.org/packages/Syncfusion.DocIORenderer), you can export the document as PDF on the server side.  
 - The Angular frontend serializes the document content in SFDT format and sends it to an ASP.NET Core backend.  
 - The backend uses `Syncfusion.EJ2.WordEditor.AspNet.Core` and `Syncfusion.DocIORenderer` to convert the SFDT to a searchable and well-formatted PDF.  
 - The exported PDF does support text search since content is rendered as actual text.  
 - The server returns the PDF as a binary blob which is downloaded by the client.  
-- [GitHub Repository](https://github.com/syncfusion/angular-docx-editor-export-pdf)
+- [GitHub Repository](https://github.com/SyncfusionExamples/Export-document-as-PDF-in-Angular/tree/master/Server%20side%20export)
 
 # Resources 
 
