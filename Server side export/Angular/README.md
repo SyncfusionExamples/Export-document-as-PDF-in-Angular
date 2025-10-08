@@ -1,0 +1,3 @@
+# Server-Side PDF Export Using Syncfusion DOCX Editor and ASP.NET Core
+
+This sample demonstrates how to export Word documents as PDF on the server side using the `Syncfusion DOCX Editor` in Angular and an ASP.NET Core backend. The Angular frontend serializes the document content in SFDT format and sends it to the backend, which uses [Syncfusion.EJ2.WordEditor.AspNet.Core](https://www.nuget.org/packages/Syncfusion.EJ2.WordEditor.AspNet.Core) and [Syncfusion.DocIORenderer](https://www.nuget.org/packages/Syncfusion.DocIORenderer) to convert the content into a searchable and well-formatted PDF. The server returns the PDF as a binary blob, which is downloaded by the client.
