@@ -30,7 +30,7 @@ import {
 `,
   providers: [ToolbarService],
 })
-export class App implements OnInit {
+export class AppComponent implements OnInit {
   @ViewChild('documenteditor_default')
   public container?: DocumentEditorContainerComponent;
   ngOnInit(): void { }
