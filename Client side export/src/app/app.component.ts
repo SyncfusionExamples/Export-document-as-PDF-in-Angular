@@ -38,7 +38,7 @@ import { DocumentEditorContainerModule } from '@syncfusion/ej2-angular-documente
   </ejs-documenteditorcontainer>
 `,
 })
-export class App implements OnInit {
+export class AppComponent implements OnInit {
   @ViewChild('documenteditor_default')
   public container?: DocumentEditorContainerComponent;
   ngOnInit(): void { }
