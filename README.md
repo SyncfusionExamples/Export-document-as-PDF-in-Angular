@@ -1,6 +1,6 @@
-# Export Word Documents as PDF in Angular Using the DOCX Editor
+# Export Word Documents as PDF in Angular Using the DOCX Editor (Document Editor)
 
-This sample demonstrates how to export a Word document as a PDF using the `Syncfusion DOCX Editor` component in Angular. It covers exporting the document on both the client and server sides.
+This sample demonstrates how to export a Word document as a PDF using the Syncfusion<sup style="font-size:70%">&reg;</sup> [Angular DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). It covers exporting the document on both the client and server sides.
 
 # Features 
 
@@ -8,11 +8,13 @@ This sample demonstrates how to export a Word document as a PDF using the `Syncf
 
 [**Server Side**](https://github.com/SyncfusionExamples/Export-document-as-PDF-in-Angular/tree/master/Server%20side%20export) – With the help of [Syncfusion® DocIO](https://www.nuget.org/packages/Syncfusion.DocIORenderer), you can export the document as PDF on the server side.  
 
-# Resources 
+# Resources
 
-- Product page: [Syncfusion® Angular Word Processor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor)    
-- Documentation: [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/angular/getting-started)   
-- Online demo: [Syncfusion® Word Processor - Demo](https://document.syncfusion.com/demos/docx-editor/angular/#/bootstrap5/document-editor/default) 
+- **Product page:**   [Syncfusion® Angular DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
+- **Documentation:**   [Syncfusion® Angular DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/angular/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
+- **Online demo:**   [Syncfusion® Angular DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/angular/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
 # Support and feedback 
 
